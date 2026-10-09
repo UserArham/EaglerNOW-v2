@@ -1,4 +1,4 @@
-# Welcome to Eaglercraft Extras!
+# Welcome to EaglerNOW!
 This is a website similar to Eaglercrack (if you know it) where you can find all things related to Eaglercraft!
 There are currently 3 developers, and I am trying to update this as much as possible for it to be the best it can be.
 I recommend looking through some of the features below!
@@ -10,7 +10,7 @@ I recommend looking through some of the features below!
 - Look at a <b>giant</b> selection of clients to play on!
 - See our built-in Quick Guide made by Thundiverter!
 - Download skins for your Eaglercraft character!
-- We have 1.3, 1.5, and 1.8 clients for Eaglercraft!
+- We have 1.3, 1.5, and 1.8 clients for Eaglercraft, including 1.21.11!
 - The best part? It's 100% <u>free!</u>
 
 ## Meet the Developers
@@ -40,5 +40,14 @@ Here are some things about me:
 - Has a YouTube channel --> https://youtube.com/@SprintingSnail123
 - Insane at Brawl Stars
 - yea :(
+
+### Hey there! I'm UserArham.
+
+- Knows HTMl5, CSS, JS, and Python
+- Barely knows TypeScript
+- Loves coding
+- Makes a lot of Eaglercraft
+- Good at Fortnite
+- Barely knows React
 
 ### Thanks to Thundiverter for making the MC Quick Guide!
